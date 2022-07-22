@@ -4,5 +4,5 @@ Great repository names are short and memorable. Need inspiration? How about cris
 
 
 
-CLick to visit website: https://marvsalquizar.github.io/one/
+Click to visit website: https://marvsalquizar.github.io/one/
 
